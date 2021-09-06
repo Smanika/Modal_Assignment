@@ -1,4 +1,9 @@
 # Modal_Assignment
 Modal Using HTML and CSS
 
-- Here Modal1.html file is made using bootstrap.
+### Here Modal1.html file is made using bootstrap.
+
+### Live Preview of the Assignment-
+
+[`Click on the link`](https://smanika.github.io/Modal_Assignment/)
+
