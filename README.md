@@ -1,7 +1,7 @@
 # Modal_Assignment
 Modal Using HTML and CSS
 
-### Here Modal1.html file is made using bootstrap.
+### Here index1.html file is made using bootstrap.
 
 ### Live Preview of the Assignment-
 
